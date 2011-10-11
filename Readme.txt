@@ -5,11 +5,11 @@ This is not made to encourage piracy/plagiarism.
 
 HowTo
 -----
-0. Extract batch file and lib folder to C:\apk2java\ (or any folder that doesnt have space in its path)
-1. Backup the target app's apk from phone to PC via ASTRO Browser
-2. Keep the target apk in the root folder where batch file is present
-3. Run 'apk2java.bat target.apk' in cmd
-4. Result - java and resource files available in 'src'
+1. Extract batch file and lib folder to C:\apk2java\ (or any folder that doesnt have space in its path)
+2. Backup the target app's apk from phone to PC via ASTRO Browser
+3. Keep the target apk in the root folder where batch file is present
+4. Run 'apk2java.bat target.apk' in cmd
+5. Result - java and resource files available in 'src'
 
 Note: This batch just automates the sequence in which various tools are initiated and does not handle any error events. You will have to go through the cmd verbose to figure out the problem.
 
