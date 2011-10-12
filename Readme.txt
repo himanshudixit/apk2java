@@ -1,5 +1,5 @@
-Intro
------
+Introduction
+------------
 This batch file decompiles an apk to its corresponding java sources. Security code review can be done on theses generated applicaion source files so as to identify any potential vulnerabilities present. 
 This is not made to encourage piracy/plagiarism. 
 
